@@ -18,7 +18,7 @@
 
 <br />
 
-Hi, I'm [Arshpreet Singh Khangura](https://arshpreetsingh.github.io/), a Full Stack Developer 🚀 from India, currently, I'm a DataOPS  at 👨🏽‍💼[Blackrock](https://www.blackrock.com/corporate/global-directory).
+Hi, I'm [Arshpreet Singh Khangura](https://arshpreetsingh.github.io/), a Full Stack Developer 🚀 from India, currently, I'm working   at 👨🏽‍💼[Blackrock](https://www.blackrock.com/corporate/global-directory).
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
